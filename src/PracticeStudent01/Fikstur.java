@@ -1,4 +1,4 @@
-package PacticeStudent01;
+package PracticeStudent01;
 
 import java.util.ArrayList;
 import java.util.List;
